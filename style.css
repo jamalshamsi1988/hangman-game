@@ -57,7 +57,7 @@ html{
     opacity: 0.5;
  }
 
- section #image{
+ section#image{
     text-align: center;
  }
 
@@ -66,9 +66,8 @@ Display the massage when the game is over.
 Hide it at the beginning.
  */
 
- section #gameover{
+ section#gameover p{
     text-align: center;
     font-size: 1rem;
     display: none;
  }
- 
